@@ -25,7 +25,7 @@ $(function() {
         }
     };
     
-    /* Smooth scroll */
+    /* Smooth scroll  */
     $("[data-scroll]").on("click", function(event) {
         event.preventDefault();
         
